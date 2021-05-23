@@ -21,6 +21,6 @@ This is how it looks..
 
 <img src="https://user-images.githubusercontent.com/54796929/119256836-37e8bc80-bbe0-11eb-84c1-63de271b200a.png" width="300">
 
-Link for demonstration of game :
+See me giving demonstration of the game :
 https://drive.google.com/file/d/1P4i_us9zna4L-CYgvXUEfCHnwK8Tx_F9/view?usp=sharing
 
